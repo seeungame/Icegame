@@ -1,0 +1,12 @@
+[
+  {
+    "itemname": "warm",
+    "value": 5 ,
+    "description" :  "Remove Cold Debuff."
+  },
+  {
+    "itemname": "Anti-slip",
+    "value": 5,
+    "description": "Keeps you from slipping"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "characterName": "Rebel",
+  "gridPosition": {
+    "x": 0,
+    "y": 0
+  },
+  "moveSpeed": 5.0,
+  "tileSize": {
+    "x": 14.0,
+    "y": 14.0
+  },
+  "debuffs": [],
+  "inventory": []
+}

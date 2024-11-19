@@ -1,0 +1,4 @@
+repository "PnuIcegame@game_pusan@cloud"
+  path "/"
+    br "/main"
+    co "/main"
